@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="www.linkedin.com/in/александр-захаров-455b7719b">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/ManyakWeb">
+<a href="https://t.me/ManyWeb">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 

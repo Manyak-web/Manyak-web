@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/aleksandr_alexz">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/александр-захаров-455b7719b">
+<a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%B7%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2-455b7719b/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/ManyWeb">

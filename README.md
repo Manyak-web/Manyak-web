@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 , меня зовут Александр, Я Фронтенд разработчик. Изучаю Vue и ещё несколько интересных технологий.
 *   🌍  Я живу В Узбекистане в городе Ташкент
-*   ✉️  Для связи со мной :<a href="https://vk.com/id179893653">
+*   🧠  Я изучаю Python, Django, Vue
+*    ✉️  Для связи со мной :<a href="https://vk.com/id179893653">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 <a href="https://twitter.com/aleksandr_alexz">
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-*   🧠  Я изучаю Python, Django, Vue
  
 <br />
   
